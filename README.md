@@ -5,5 +5,6 @@
 ![alt text](http://i.imgur.com/yfAerGO.png)
 
 
-```Criado por Jonatas Fil (Dkr)
-Greats: HackerSecurity```
+```Criado por Jonatas Fil (Dkr)```
+
+Greats: HackerSecurity
